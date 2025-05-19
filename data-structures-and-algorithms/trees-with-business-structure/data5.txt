@@ -1,0 +1,11 @@
+10
+CEO 60 200000 NULL
+Director 55 150000 CEO
+Manager 50 100000 Director
+TeamLead1 45 80000 Manager
+TeamLead2 46 81000 Manager
+Senior1 40 70000 TeamLead1
+Developer1 35 60000 Senior1
+Developer2 30 55000 Developer1
+Junior1 25 40000 Developer2
+Intern 22 25000 Junior1
