@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-## This directory contains projects and assignments related to Data Structures and Algorithms courses. These projects focus on implementing fundamental data structures and algorithms for efficient problem-solving.
+This directory contains projects and assignments related to Data Structures and Algorithms courses. These projects focus on implementing fundamental data structures and algorithms for efficient problem-solving.
 
 ## Projects
 
